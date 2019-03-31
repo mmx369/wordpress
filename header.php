@@ -73,6 +73,17 @@
   <?php } else {  ?>
 
   <?php } ?>
+
+<div>
+<h1 align="center">Max Klishevich</h1>
+</div>
+<div align="center">
+<img src="https://avatars.mds.yandex.net/get-pdb/28866/9e621233-36ec-4e34-a372-9829f00a67ed/s1200" width="400" height="300">
+
+</div>
+
+
+
 </header>    
 
 <div id="content" class="site-content">
